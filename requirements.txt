@@ -13,3 +13,4 @@ pillow
 einops
 future
 mamba-ssm
+timm
